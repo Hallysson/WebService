@@ -19,7 +19,7 @@ import javax.ws.rs.core.MediaType;
  *
  * @author hall
  */
-@Path("generic")
+@Path("fazenda")
 public class FazendaWS {
 
     @Context
